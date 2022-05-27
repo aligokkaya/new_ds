@@ -1,0 +1,18 @@
+[{"name":"Cigarette Detection","notification_no":"06 HYPE 06","Proffer":"m-303","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-57-14.png","cam_no":1,"date":"2021-07-18 09:51:52","status":"Approved"},
+{"name":"Sleep Detection","notification_no":"06 HYPE 06","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-59-16.png","cam_no":1,"date":"2022-02-20 17:51:27","status":"Pending"},
+{"name":"Sleep Detection","notification_no":"34 HYPE 34","Proffer":"m-202","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-01-07-56.png","cam_no":1,"date":"2021-10-04 19:13:01","status":"Pending"},
+{"name":"Sleep Detection","notification_no":"06 HYPE 06","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-59-16.png","cam_no":1,"date":"2022-02-20 17:51:27","status":"Pending"},
+{"name":"Sleep Detection","notification_no":"06 HYPE 06","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-59-16.png","cam_no":1,"date":"2022-02-20 17:51:27","status":"Pending"},
+
+{"name":"Telephone Detection","notification_no":"06 HYPE 06","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-53-37.png","cam_no":1,"date":"2021-11-07 01:03:35","status":"Rejected"},
+{"name":"Cigarette Detection","notification_no":"34 HYPE 34","Proffer":"m-303","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-01-00-24.png","cam_no":1,"date":"2021-08-19 16:31:03","status":"Pending"},
+{"name":"Cigarette Detection","notification_no":"06 HYPE 06","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-57-53.png","cam_no":1,"date":"2021-11-28 08:30:25","status":"Rejected"},
+{"name":"Telephone Detection","notification_no":"34 HYPE 34","Proffer":"m-202","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-01-02-25.png","cam_no":1,"date":"2022-01-17 00:30:33","status":"Pending"},
+{"name":"Telephone Detection","notification_no":"06 HYPE 06","Proffer":"m-202","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-53-56.png","cam_no":1,"date":"2022-02-12 20:11:57","status":"Approved"},
+{"name":"Cigarette Detection","notification_no":"34 HYPE 34","Proffer":"m-202","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-01-00-44.png","cam_no":1,"date":"2021-04-29 02:22:48","status":"Approved"},
+{"name":"Telephone Detection","notification_no":"06 HYPE 06","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-53-37.png","cam_no":1,"date":"2021-11-07 01:03:35","status":"Rejected"},
+{"name":null,"notification_no":null,"Proffer":null,"image":null,"cam_no":null,"date":"2022-02-28 01:56:28","status":"Rejected"},
+{"name":"Telephone Detection","notification_no":"06 HYPE 06","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-00-53-37.png","cam_no":1,"date":"2021-11-07 01:03:35","status":"Rejected"},
+
+{"name":"Telephone Detection","notification_no":"34 HYPE 34","Proffer":"m-101","image":"https://www.hypegenai.com/wp-content/uploads/2022/05/Screenshot-from-2022-05-27-01-02-14.png","cam_no":1,"date":"2021-10-30 00:34:49","status":"Rejected"}
+]
